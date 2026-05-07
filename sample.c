@@ -1,4 +1,5 @@
 #include <SchooMyUtilities.h> // スクーミー専用の便利ツールを読み込む
+// 基礎プログラミングII 第3回 SchooMyプロジェクト
 
 SchooMyUtilities scmUtils = SchooMyUtilities(); // ツールを使えるように準備
 
